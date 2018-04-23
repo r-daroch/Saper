@@ -1,2 +1,2 @@
 # **Saper**
-##Gra saper - cel stworzenia, nauka JS
+## Gra saper - cel stworzenia, nauka JS
